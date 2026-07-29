@@ -1,3 +1,6 @@
+# programming exercise: Extra Space
+# description: controlling whitespace structure in print statements
+# AI Note : Used AI to understand how to use the f function and match the exact format required for the exercise 
 name = "Tim Tester"
 age = 20
 skill1 = "python"
