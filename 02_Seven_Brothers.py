@@ -1,5 +1,5 @@
 # programming exercise: seven brothers
-# description: print all the names in alphabetical order
+# description: Fix the code so all the names are in alphabetical order
 print("Aapo")
 print("Eero")
 print("Juhani")
