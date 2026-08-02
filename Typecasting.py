@@ -1,3 +1,5 @@
+# Python exercise: Typecasting
+# Description: converting code between integer and float
 num = float(input("Please type in a number:"))
 num2 = (int(num))
 num3 = num - num2
