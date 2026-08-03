@@ -1,5 +1,5 @@
 # programming exercise: Temperature
-# description: convertimg fahrenheit to celsius using if statements
+# description: converting fahrenheit to celsius using if statements
 F = int(input("Type in a temp:"))
 if F >= 32:
     stu = ((F - 32) * 5/9)
