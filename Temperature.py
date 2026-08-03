@@ -1,3 +1,6 @@
+# programming exercise: Temperature
+# description : conveting fahrenheit to celsius using if statements
+
 F = int(input("Type in a temp:"))
 if F >= 32:
     stu = ((F - 32) * 5/9)
