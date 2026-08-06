@@ -1,3 +1,5 @@
+# programming exercise: sum and mean
+# description: create a program to find the sum and mean of the numbers the user inputs
 num1 = int(input("number 1?"))
 num2 = int(input("number 2?"))
 num3 = int(input("number 3?"))
