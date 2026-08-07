@@ -1,3 +1,5 @@
+# programming exercise: Loyalty card
+# description: calculate the bonus a person gets based on the amount of points
 points = int(input("How many points are on your card? "))
 if points < 100:
     points *= 1.1
